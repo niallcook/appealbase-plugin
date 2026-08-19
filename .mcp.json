@@ -1,6 +1,8 @@
 {
-  "appealbase": {
-    "type": "http",
-    "url": "https://www.appealbase.com/api/mcp"
+  "mcpServers": {
+    "appealbase": {
+      "type": "http",
+      "url": "https://www.appealbase.com/api/mcp"
+    }
   }
 }
