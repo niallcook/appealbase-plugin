@@ -1,0 +1,11 @@
+{
+  "name": "appealbase",
+  "displayName": "Appealbase — UK Planning Appeals",
+  "version": "1.0.0",
+  "description": "Search over 100,000 UK planning appeal decisions from the Planning Inspectorate",
+  "author": {
+    "name": "Niall Cook",
+    "url": "https://www.appealbase.com"
+  },
+  "mcpServers": ".mcp.json"
+}
